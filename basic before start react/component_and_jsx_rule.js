@@ -1,4 +1,21 @@
-//----------------------------------------------------
+-------------------------------------------------------------
+How to setup in vs code for new React PromiseRejectionEvent
+
+first command
+npx create-react-app project-name 
+
+ex : npx create-react-app project1
+
+
+second command 
+
+  cd project1
+  npm start
+
+then above 2 commands for starting the project
+
+
+-//----------------------------------------------------
 // index.js 
 
 import React from "react";
