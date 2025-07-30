@@ -1,5 +1,5 @@
 -------------------------------------------------------------
-How to setup in vs code for new React PromiseRejectionEvent
+How to setup in vs code for new React App
 
 first command
 npx create-react-app project-name 
